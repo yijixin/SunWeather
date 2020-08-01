@@ -1,2 +1,3 @@
 rootProject.name='SunWeather'
 include ':app'
+include ':common'
